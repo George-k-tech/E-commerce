@@ -175,7 +175,8 @@ ul li a:hover::after{
 }
 
 .footer{
-    padding-top: 100%;
+  /*   padding-top: 100%; */
+  margin-top: 15px;
     display: flex;
     justify-content: space-around;
 }
