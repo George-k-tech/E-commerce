@@ -169,3 +169,18 @@ ul li a:hover::after{
 .product-price{
     font-weight: bold;
 }
+
+.icons,.logo{
+    cursor: pointer;
+}
+
+.footer{
+    padding-top: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+#icons{
+    display: flex;
+    justify-content: space-around;
+}
+
